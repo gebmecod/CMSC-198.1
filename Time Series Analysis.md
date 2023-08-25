@@ -27,7 +27,7 @@
 
 ### **Machine Learning Models**
 
-**[[Autoregression (AR)]]**
+**[Autoregression (AR)](Autoregression%20(AR).md)**
 - models the next step in the sequence as a linear function of the observation at prior time steps.
 - suitable for univariate time series without trend and seasonal components.
 
