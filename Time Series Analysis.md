@@ -28,3 +28,14 @@
 **[[Autoregression (AR)]]**
 - models the next step in the sequence as a linear function of the observation at prior time steps.
 - suitable for univariate time series without trend and seasonal components.
+
+**[[Moving Average]]**
+- used to analyze the time-series data by calculating averages of different subsets of the complete dataset.
+- also called moving mean or rolling mean.
+
+**[[Autoregressive Moving Average]]**
+- models the next step in the sequence as a linear function of the observations and residual errors at prior time steps. Combines AR and MA
+
+**[[Autoregressive Integrated Moving Average]]**
+- models the next step in the sequence as a linear function of the differenced observations and residual errors at prior time steps.
+- combines both AR and MA as well as a differencing pre-processing step of the sequence to make the sequence stationary, called *integration* (I)
