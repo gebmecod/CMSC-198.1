@@ -46,7 +46,7 @@
 - models the next step in the sequence as a linear function of the differenced observations, errors, differenced seasonal observations, and seasonal errors at prior time steps.
 - extends ARIMA model to perform at the seasonal level.
 
-[Reference]([A RoadMap to Time-Series Analysis | by Eswara Prasad | featurepreneur | Medium](https://medium.com/featurepreneur/a-roadmap-for-time-series-analysis-3faf49b2126))
+([A RoadMap to Time-Series Analysis | by Eswara Prasad | featurepreneur | Medium](https://medium.com/featurepreneur/a-roadmap-for-time-series-analysis-3faf49b2126))
 ### Deep Learning Models
 
 **[Convolutional Neural Networks (CNN)](Convolutional%20Neural%20Networks%20(CNN).md)**
