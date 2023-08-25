@@ -15,7 +15,7 @@
 7. ***Noise***: The variability in the observations that cannot be explained by the model.
 
 **Smoothing Techniques**
-	*Essential to reduce noise present in our series and point out the true patterns that may present over time.*
+- *Essential to reduce noise present in our series and point out the true patterns that may present over time.*
 
 **Types of Smoothing Techniques**:
 1. Single Exponential Smoothing (SES)
