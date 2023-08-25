@@ -22,3 +22,9 @@
 	- is a time series forecasting method for univariate data without trend or seasonality
 2. Double Exponential Smoothing
 3. Triple Exponential Smoothing
+
+## Forecasting Models
+
+**[[Autoregression (AR)]]**
+- models the next step in the sequence as a linear function of the observation at prior time steps.
+- suitable for univariate time series without trend and seasonal components.

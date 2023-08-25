@@ -1,0 +1,1 @@
+**uses observations from previous time steps as input to a regression equation to predict the value at the next time step**.
