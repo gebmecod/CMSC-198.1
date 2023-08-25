@@ -1,5 +1,5 @@
 
-# Time Series Analysis
+# Time Series Analysis📈📊
 
 ## **Time Series**
 	- sequence of data taken at equally spaced intervals (can be hourly, daily, weekly, monthly, and quarterly)
