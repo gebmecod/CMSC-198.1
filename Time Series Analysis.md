@@ -54,5 +54,7 @@ Reference: ([A RoadMap to Time-Series Analysis | by Eswara Prasad | featureprene
 - Dilated Convolutions
 	- enables the network to have a larger receptive field without increasing the number of parameters ([Dilated Convolution - GeeksforGeeks](https://www.geeksforgeeks.org/dilated-convolution/))
 
-
+**Recurrent Neural Networks (RNN)**
+- used in sequence modelling.
+- RNN cells contain an internal memory state which acts as a compact summary of past information.
 
