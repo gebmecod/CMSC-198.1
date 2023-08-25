@@ -2,8 +2,8 @@
 # Time Series Analysis📈📊
 
 **Definition**
-	- sequence of data taken at equally spaced intervals (can be hourly, daily, weekly, monthly, and quarterly)
-	- a process of using statistical model to predict future values of a time series based on past values
+- sequence of data taken at equally spaced intervals (can be hourly, daily, weekly, monthly, and quarterly)
+- a process of using statistical model to predict future values of a time series based on past values
 
  **Terminologies:**
 1. ***Trend***: increasing and decreasing of a series overtime. Can be increasing, decreasing, or stationary.
@@ -19,6 +19,6 @@
 
 **Types of Smoothing Techniques**:
 1. Single Exponential Smoothing (SES)
-			- is a time series forecasting method for univariate data without trend or seasonality
+	- is a time series forecasting method for univariate data without trend or seasonality
 2. Double Exponential Smoothing
 3. Triple Exponential Smoothing
