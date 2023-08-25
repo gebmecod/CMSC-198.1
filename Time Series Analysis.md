@@ -30,6 +30,7 @@
 **[Autoregression (AR)](Autoregression%20(AR).md)**
 - models the next step in the sequence as a linear function of the observation at prior time steps.
 - suitable for univariate time series without trend and seasonal components.
+- Example Application: [3](obsidian://open?vault=Obsidian%20Vault&file=CMSC%20198.1%2FArticles%2F3.pdf)
 
 **[Moving Average](Moving%20Average.md)**
 - used to analyze the time-series data by calculating averages of different subsets of the complete dataset.
