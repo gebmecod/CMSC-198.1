@@ -49,10 +49,10 @@
 [Reference]([A RoadMap to Time-Series Analysis | by Eswara Prasad | featurepreneur | Medium](https://medium.com/featurepreneur/a-roadmap-for-time-series-analysis-3faf49b2126))
 ### Deep Learning Models
 
-**Convolutional Neural Networks (CNN)**
+**[[Convolutional Neural Networks (CNN)]]**
 - extract local relationships that are invariant across spatial dimensions.
 - Dilated Convolutions
-	- 
+	- enables the network to have a larger receptive field without increasing the number of parameters ([Dilated Convolution - GeeksforGeeks](https://www.geeksforgeeks.org/dilated-convolution/))
 
 
 
