@@ -58,3 +58,4 @@ Reference: ([A RoadMap to Time-Series Analysis | by Eswara Prasad | featureprene
 - used in sequence modelling.
 - RNN cells contain an internal memory state which acts as a compact summary of past information.
 - do not require explicit specification of a lookback window as per the CNN case
+- 
