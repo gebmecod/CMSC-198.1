@@ -1,7 +1,7 @@
 
 # Time Series Analysis📈📊
 
-## **Time Series**
+## **Definition**
 	- sequence of data taken at equally spaced intervals (can be hourly, daily, weekly, monthly, and quarterly)
 	- a process of using statistical model to predict future values of a time series based on past values
 
