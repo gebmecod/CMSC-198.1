@@ -25,6 +25,8 @@
 
 ## Forecasting Models
 
+### **Machine Learning Models**
+
 **[[Autoregression (AR)]]**
 - models the next step in the sequence as a linear function of the observation at prior time steps.
 - suitable for univariate time series without trend and seasonal components.
@@ -44,5 +46,13 @@
 - models the next step in the sequence as a linear function of the differenced observations, errors, differenced seasonal observations, and seasonal errors at prior time steps.
 - extends ARIMA model to perform at the seasonal level.
 
-
 [Reference]([A RoadMap to Time-Series Analysis | by Eswara Prasad | featurepreneur | Medium](https://medium.com/featurepreneur/a-roadmap-for-time-series-analysis-3faf49b2126))
+### Deep Learning Models
+
+**Convolutional Neural Networks (CNN)**
+- extract local relationships that are invariant across spatial dimensions.
+- Dilated Convolutions
+	- 
+
+
+
