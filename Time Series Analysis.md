@@ -25,7 +25,7 @@
 
 ## Forecasting Models
 
-**[Autoregression (AR)]**
+**[[Autoregression (AR)]**
 - models the next step in the sequence as a linear function of the observation at prior time steps.
 - suitable for univariate time series without trend and seasonal components.
 
