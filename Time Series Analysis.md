@@ -40,5 +40,9 @@
 - models the next step in the sequence as a linear function of the differenced observations and residual errors at prior time steps.
 - combines both AR and MA as well as a differencing pre-processing step of the sequence to make the sequence stationary, called *integration* (I)
 
+**[[Seasonal Autoregressive Integrated Moving Average]]**
+- models the next step in the sequence as a linear function of the differenced observations, errors, differenced seasonal observations, and seasonal errors at prior time steps.
+- extends ARIMA model to perform at the seasonal level.
+
 
 [Reference]([A RoadMap to Time-Series Analysis | by Eswara Prasad | featurepreneur | Medium](https://medium.com/featurepreneur/a-roadmap-for-time-series-analysis-3faf49b2126))
