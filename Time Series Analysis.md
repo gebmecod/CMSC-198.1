@@ -16,7 +16,7 @@
 *Essential to reduce noise present in our series and point out the true patterns that may present over time.*
 
 **Types of Smoothing Techniques**:
-		1. Single Exponential Smoothing (SES)
+1. Single Exponential Smoothing (SES)
 			- is a time series forecasting method for univariate data without trend or seasonality
-		2. Double Exponential Smoothing
-		3. Triple Exponential Smoothing
+2. Double Exponential Smoothing
+3. Triple Exponential Smoothing
