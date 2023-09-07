@@ -5,6 +5,6 @@ A model is said to be autoregressive if its prediction value is based from the p
 PACF is commonly used to determine the significant lags within the time series.
 
 Autoregressive model states that,
-	$a_t = a_t + \theta_{t-1} + ... + \theta_{t-q}$ , where $a_t$ is the predicted 
+	$a_t = \theta_0 a_t + \theta_1 a_{t-1} + ... + \theta_q a_{t-q}$ , where $a_t$ is the predicted 
 
 
