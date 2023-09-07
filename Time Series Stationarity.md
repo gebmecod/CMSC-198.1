@@ -1,0 +1,2 @@
+- ARIMA model requires stationary time series [obsidian://open?vault=Obsidian%20Vault&file=CMSC%20198.1%2FArticles%2F6.pdf]
+- 
